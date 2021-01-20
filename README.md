@@ -11,7 +11,7 @@
 
 ```js
 describe("My First Test", () => {
-  it("Visits the Kitchen Sink", () => {
+  it("Fill address form", () => {
     cy.visit("http://localhost:4200");
   });
 });
