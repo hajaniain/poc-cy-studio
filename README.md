@@ -19,7 +19,7 @@ describe("My First Test", () => {
 
 * Suivre le guide proposé [ici](https://docs.cypress.io/guides/core-concepts/cypress-studio.html#Step-1-Run-the-spec)
 
-PS: Le contenu du fichier `cypress/integration/address-form_spec.js` a été généré par Cypress Studio
+PS: Le contenu du fichier `cypress/integration/examples/address-form_spec.js` a été généré par Cypress Studio
 
 
 ## Historique des commandes
